@@ -1,3 +1,4 @@
+//udated coe in 1202
 print('hello world')
 A=10
 B='edurekha'
