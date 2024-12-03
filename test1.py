@@ -3,6 +3,7 @@ A=10
 B='edurekha'
 print(A,B)
 x,y,z=10,20,30
+//add a line 
 print(x)
 print(y,z)
 a=50
